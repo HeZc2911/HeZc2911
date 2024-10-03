@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=a295b6&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi%2C%20I'm%20@s-villa%20🦥;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=a295b6&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi%2C%20I'm%20"@HeZc2911%20😶‍🌫️👹🐉;"></a>
 </p>
 <h3 align="center">A passionate student from Colombia</h3>
 
@@ -9,24 +9,16 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=16&duration=1000&pause=7000&color=b395b6&multiline=true&random=false&width=715&height=24&lines=%22There+is+always+some+madness+in+love.+But+there+is+also+always+some+reason+in+madness+📜%22) Since I was little I began to like the world of computing, I started programming a Pacman at the age of 13, at 16 I worked in a company as a developer. Now i have 18 and im currently a student at @UNAL
 
--  ⬛ I’m currently learning: **Js, Python and Machine learning**
+-  ⬛ I’m currently learning: **Python, JS, NodeJs**
 
--  🟦 I’m currently study: **control engineer in @UNAL**
+-  🟦 I’m currently study: **technological administration @ITM**
 
--  🟪 If you wanna reach me: **s.jojoavilla@gmail.com**
-
--  🟧 Fun fact: **when I was child a dog almost killed me :/**
-
-
+-  🟪 If you wanna reach me: **hectoreduardozapata2911@gmail.com**
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRhcW42MmozMGpnYTlka2JsemVodm8zeG9zaGEwNmowbTZuYnRrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/H4yjK0frh27wpSdyHf/giphy.gif" width ="25"><b> Connect with me </b>
 <p align="left">
-<a href="https://twitter.com/villa_jojoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villa_jojoa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sjvilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="sjvilla" height="30" width="40" /></a>
-<a href="https://instagram.com/s.villa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.villa_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/s_jojoavilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_jojoavilla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/svilla03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="svilla03" height="30" width="40" /></a>
-</p>
+<a href=[https://www.linkedin.com/in/héctor-zapata-485039331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="sjvilla" height="30" width="40" /></a>
+<a href="https://instagram.com/hezc_2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.villa_" height="30" width="40" /></a>
 
 
 
@@ -34,30 +26,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,mysql,js,html,css,bootstrap,tensorflow,anaconda,react,django,dotnet,git,github,matlab,postman,arduino,visualstudio,vscode,unity,godot,gamemakerstudio,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,cs,mysql,js,html,css,bootstrap,git,github,visualstudio,vscode,godot,bash,linux&perline=12" />
   </a>
 </p>
-
-
-
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="35"><b> My Stats </b>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20&hide_border=true" />
- </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-villa&theme=tokyonight_duo&hide_border=true" />
- </p>
-
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/s-villa/count.svg" />
-    </td>
-  </tr>
-</table>
