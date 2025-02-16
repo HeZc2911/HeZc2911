@@ -11,13 +11,13 @@
 
 -  ⬛ I’m currently learning: **Python, JS, NodeJs**
 
--  🟦 I’m currently study: **technological administration @ITM**
+-  🟦 I’m currently study: **Software Development at @ITM**
 
 -  🟪 If you wanna reach me: **hectoreduardozapata2911@gmail.com**
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRhcW42MmozMGpnYTlka2JsemVodm8zeG9zaGEwNmowbTZuYnRrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/H4yjK0frh27wpSdyHf/giphy.gif" width ="25"><b> Connect with me </b>
 <p align="left">
-<a href=[https://www.linkedin.com/in/héctor-zapata-485039331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="sjvilla" height="30" width="40" /></a>
+<a href=[https://www.linkedin.com/in/héctor-zapata-485039331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="HeZc2911" height="30" width="40" /></a>
 <a href="https://instagram.com/hezc_2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.villa_" height="30" width="40" /></a>
 
 
