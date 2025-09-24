@@ -7,9 +7,9 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkdHhuM2k5c2JjMmJrdGI0ZDBwbTdvbmh2d2ppaTEwa3U2enMzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" height="45" width ="45"><b> About me </b>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nabla&duration=1000&pause=1000&vCenter=true&width=458&height=30&lines=%22With+your+brilliant+wit+you+will+always+be+alone%22)](https://git.io/typing-svg) Since I was little I began to like the world of computing, I started disassembling my laptop just to see what it was like inside :D, at 17 i began studiying software developer assistant. Now i have 18 and im currently a student at @ITM
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nabla&duration=1000&pause=1000&vCenter=true&width=458&height=30&lines=With+your+brilliant+wit+you+will+always+be+alone )](https://git.io/typing-svg) Since I was little I began to like the world of computing, I started disassembling my laptop just to see what it was like inside :D, at 17 i began studiying software developer assistant. Now i have 19 and im currently studying DevOps path
 
--  ⬛ I’m currently learning: **Python, JS, NodeJs**
+-  ⬛ I’m currently learning: **CI/CD, Cloud**
 
 -  🟦 I’m currently study: **Software Development at @ITM**
 
@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,mysql,js,html,css,bootstrap,git,github,visualstudio,vscode,bash,arch,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,cs,mysql,js,html,css,bootstrap,git,github,visualstudio,vscode,bash,arch,linux,githubactions,docker&perline=12" />
   </a>
 </p>
